@@ -1,0 +1,10 @@
+# iniciar un repositorio de git
+git init
+
+# consular el estado del repositorio de git
+git status
+
+# añadir archivos al stagn
+git add archivo
+
+# añadir 
